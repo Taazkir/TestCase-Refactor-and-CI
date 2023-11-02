@@ -6,7 +6,7 @@ authors = ["Taazkir"]
 readme = "README.md"
 packages = [
     { include = "src/assignment_lists_solutions.py" },
-    { include = "test/linkedList_test.py" }
+    { include = "tests/test_linked_list.py" }
 ]
 
 [tool.poetry.dependencies]
